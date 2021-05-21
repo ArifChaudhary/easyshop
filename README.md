@@ -1,4 +1,9 @@
 # easyshop
+This is open source project and you are welcome to contribute.
+project url : currently server down, not using as i have free tier instance only
+currently running on local server
+Tech Stack : python, django, djangorestframework, html, css, JS, Jquery
+
 Installation Setup : steps
 
 git pull https:// this repository as it is public.
